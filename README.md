@@ -1,0 +1,2 @@
+# -VERIFACE-A_Facial_Recognition_Attendance_System
+VeriFace is an AI-based real-time face recognition system designed to automate identity verification and attendance management using computer vision and machine learning techniques. The system captures live video input through a webcam, detects human faces, and matches them against a pre-trained facial dataset to verify identity with high accuracy.
